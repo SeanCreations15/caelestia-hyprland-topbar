@@ -30,6 +30,16 @@ From the repo root:
 
 This copies the tracked config back into `~/.config`.
 
+## Update Backup
+
+From the repo root:
+
+```bash
+./backup.sh "Describe change"
+```
+
+This stages changes, creates a commit, and pushes to GitHub.
+
 ## Start Shell
 
 ```bash
