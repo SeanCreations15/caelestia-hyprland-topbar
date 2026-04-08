@@ -8,7 +8,7 @@ This is a personal derivative setup based on the original Caelestia shell/config
 
 Original project:
 
-- `caelestia-dots / (https://github.com/caelestia-dots/shell?tab=readme-ov-file#manual-installation)`
+- `caelestia-dots / https://github.com/caelestia-dots/shell?tab=readme-ov-file`
 
 My changes in this repo include personal Hyprland integration and local Caelestia layout changes, including the custom top bar and centered launcher behavior.
 
